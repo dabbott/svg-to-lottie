@@ -1,0 +1,17 @@
+{
+  "name": "svg-to-lottie",
+  "version": "0.0.1",
+  "description": "Convert SVG files to Lottie JSON files",
+  "main": "index.js",
+  "dependencies": {
+    "csscolorparser": "^1.0.3",
+    "svgpath": "^2.2.1",
+    "svgson-next": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Abbott",
+  "license": "ISC"
+}
